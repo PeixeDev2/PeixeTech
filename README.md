@@ -47,7 +47,7 @@ O laboratório foi desenvolvido com foco na aplicação prática de conhecimento
 | Domínio | PEIXETECH.LOCAL |
 | Servidor | Controlador de domínio Windows Server 2022 |
 | Virtualização | Oracle VirtualBox |
-| Clientes | Windows 10/11 |
+| Clientes | Windows 10 |
 
 ## Funcionalidades desenvolvidas
 
