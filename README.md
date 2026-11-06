@@ -14,6 +14,8 @@ O laboratório foi desenvolvido com foco na aplicação prática de conhecimento
 
 ## Arquitetura  
 
+![Diagrama de arquitetura](docs/arquitetura.png)
+
 
 ## Objetivos
 
