@@ -14,7 +14,6 @@ O laboratório foi desenvolvido com foco na aplicação prática de conhecimento
 
 ## Arquitetura  
 
-docs/Arquitetura do Laboratório Windows Server 2022.png
 
 ## Objetivos
 
