@@ -12,6 +12,10 @@ O projeto simula a infraestrutura tecnológica de uma pequena empresa, utilizand
 
 O laboratório foi desenvolvido com foco na aplicação prática de conhecimentos de Administração de Sistemas, Suporte Técnico e Infraestrutura de TI.
 
+## Arquitetura  
+
+docs/Arquitetura do Laboratório Windows Server 2022.png
+
 ## Objetivos
 
 - Implementar e administrar um domínio Active Directory.
