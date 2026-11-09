@@ -21,3 +21,5 @@ PEIXETECH.LOCAL
 ├── Servidores
 ├── Grupos
 └── Administracao/GPO
+
+![Visão Geral](img/ad--ous.png)
