@@ -20,7 +20,7 @@ Esta pasta documenta o provisionamento de contas de usuários corporativos e a e
 ![Usuários da OU TI](img/usuarios_ti.png)
 
 ### Contas de Usuários na OU de DIRETORIA
-![Usuários da OU DIRETORIA](img/usuarios_diretoria.png)
+![Usuários da OU DIRETORIA](img/usuario_diretoria.png)
 
 ## 📋 Justificativa Técnica
 * **Controle Baseado em Funções (RBAC):** A aplicação de permissões a grupos de segurança em vez de usuários individuais simplifica a governança de acessos e auditorias de segurança.
