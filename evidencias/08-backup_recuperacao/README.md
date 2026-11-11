@@ -33,4 +33,4 @@ O assistente executando o backup completo em background na unidade de destino co
 
 ### 2. Conclusão com Sucesso (*Successful*)
 Painel principal do Windows Server Backup comprovando o status verde de sucesso (*Successful*) após a finalização da rotina:
-![Backup Concluído com Sucesso](./img/backup_success.png)
+![Backup Concluído com Sucesso](./img/backup_sucess.png)
