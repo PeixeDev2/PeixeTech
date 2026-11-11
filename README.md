@@ -68,12 +68,5 @@ A documentação está organizada por áreas técnicas:
 - **06-gpo:** criação e administração de políticas de grupo.
 - **07-clientes:** integração e validação das máquinas clientes.
 
-## Status do projeto
-
-Laboratório implementado e em funcionamento, com documentação técnica e evidências em fase de organização.
-
-Algumas configurações e testes específicos ainda estão em processo de validação e revisão documental.
-
----
 
 **Projeto desenvolvido para fins de estudo prático e desenvolvimento profissional em Administração de Sistemas e Infraestrutura de TI.**
