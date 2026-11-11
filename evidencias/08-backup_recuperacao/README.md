@@ -29,8 +29,8 @@ Este módulo documenta a implementação e o teste da rotina de Disaster Recover
 
 ### 1. Execução e Progresso do Backup
 O assistente executando o backup completo em background na unidade de destino configurada:
-![Progresso do Backup](./img/backup-progress.png)
+![Progresso do Backup](./img/backup_progress.png)
 
 ### 2. Conclusão com Sucesso (*Successful*)
 Painel principal do Windows Server Backup comprovando o status verde de sucesso (*Successful*) após a finalização da rotina:
-![Backup Concluído com Sucesso](./img/backup-success.png)
+![Backup Concluído com Sucesso](./img/backup_success.png)
