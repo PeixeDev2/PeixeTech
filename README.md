@@ -8,7 +8,7 @@ O projeto simula a infraestrutura tecnológica de uma pequena empresa, utilizand
 ---
 ## Arquitetura
 
-![Diagrama de arquitetura](docs/arquitetura_project.png)
+![Diagrama de arquitetura](docs/arquitetura_.png)
 
 
 
